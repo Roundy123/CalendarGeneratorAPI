@@ -10,7 +10,7 @@ The API accpets a start date, end date, creates a pandas dataframe then converts
 
 ## Installation
 
-Requires [Docker](https://www.docker.com/) to be installed. Once installed first build an image then run it:
+Requires [Docker](https://www.docker.com/) to be installed. Clone the repository then build an image and run it:
 
 ```
 sudo docker build -t myimage .
