@@ -4,7 +4,7 @@
 
 An API to create a calendar with half hour intervals between a given time frame as shown in the image below.
 
-![Image of DataFrame](http://renewable.exchange/backend/calendar_dataframe.png)
+![Image of DataFrame](https://github.com/Roundy123/CalendarGeneratorAPI/blob/master/calendargeneratoroutput.png)
 
 The API accpets a start date, end date, creates a pandas dataframe then converts this to a JSON file as a response.
 
